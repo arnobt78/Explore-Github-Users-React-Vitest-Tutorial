@@ -1,12 +1,13 @@
-# Search/Explore Github Users - React Vitest Tutorial Project
+# Search/Explore Github Users - React Vitest Tutorial
 
-<img width="1107" height="742" alt="Screenshot 2025-06-18 at 14 39 05" src="https://github.com/user-attachments/assets/1f0df645-e214-4b44-b2c6-1e3ddb5647c3" /> <img width="800" height="404" alt="Screenshot 2025-06-18 at 14 38 30" src="https://github.com/user-attachments/assets/d0784a42-6de3-4030-a852-3f612cf8234c" />
+![Screenshot 2025-06-18 at 14 39 05](https://github.com/user-attachments/assets/1f0df645-e214-4b44-b2c6-1e3ddb5647c3)
+![Screenshot 2025-06-18 at 14 38 30](https://github.com/user-attachments/assets/d0784a42-6de3-4030-a852-3f612cf8234c)
 
 ---
 
 A modern web application to search and visualize GitHub user profiles, repositories, and statistics. Built with React, Apollo Client, GraphQL, Vite, Tailwind CSS, and a comprehensive suite of automated tests.
 
-- **Live-Demo:** https://search-github-users-explorer.netlify.app/
+- **Live-Demo:** [https://search-github-users-explorer.netlify.app/](https://search-github-users-explorer.netlify.app/)
 
 ---
 
