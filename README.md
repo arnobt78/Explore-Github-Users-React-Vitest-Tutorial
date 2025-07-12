@@ -1,30 +1,34 @@
 # Search/Explore Github Users - React Vitest Tutorial Project
 
+<img width="1107" height="742" alt="Screenshot 2025-06-18 at 14 39 05" src="https://github.com/user-attachments/assets/1f0df645-e214-4b44-b2c6-1e3ddb5647c3" /> <img width="800" height="404" alt="Screenshot 2025-06-18 at 14 38 30" src="https://github.com/user-attachments/assets/d0784a42-6de3-4030-a852-3f612cf8234c" />
+
 ---
 
 A modern web application to search and visualize GitHub user profiles, repositories, and statistics. Built with React, Apollo Client, GraphQL, Vite, Tailwind CSS, and a comprehensive suite of automated tests.
+
+- **Live-Demo:** https://search-github-users-explorer.netlify.app/
 
 ---
 
 ## Table of Contents
 
-1. [Project Summary](#project-summary)
-2. [Features](#features)
-3. [Technology Stack](#technology-stack)
-4. [Project Structure](#project-structure)
-5. [Setup & Installation](#setup--installation)
-6. [Environment Variables](#environment-variables)
-7. [Usage](#usage)
-8. [Functionality Walkthrough](#functionality-walkthrough)
-9. [Testing](#testing)
-10. [Keywords](#keywords)
-11. [Conclusion](#conclusion)
+- [Project Summary](#project-summary)
+- [Features](#features)
+- [Technology Stack](#technology-stack)
+- [Project Structure](#project-structure)
+- [Setup & Installation](#setup--installation)
+- [Environment Variables](#environment-variables)
+- [Usage](#usage)
+- [Functionality Walkthrough](#functionality-walkthrough)
+- [Testing](#testing)
+- [Keywords](#keywords)
+- [Conclusion](#conclusion)
 
 ---
 
 ## Project Summary
 
-**Search Github Users** is a React-based web app that allows users to search for any GitHub username and view detailed profile information, repository statistics, and visualizations. The app leverages the GitHub GraphQL API for efficient data fetching and provides a modern UI with Tailwind CSS and shadcn/ui components. Comprehensive automated tests ensure reliability and serve as a learning resource for React Testing Library, Vitest, and MSW.
+**Explore Github Users** is a React-based web app that allows users to search for any GitHub username and view detailed profile information, repository statistics, and visualizations. The app leverages the GitHub GraphQL API for efficient data fetching and provides a modern UI with Tailwind CSS and shadcn/ui components. Comprehensive automated tests ensure reliability and serve as a learning resource for React Testing Library, Vitest, and MSW.
 
 ---
 
